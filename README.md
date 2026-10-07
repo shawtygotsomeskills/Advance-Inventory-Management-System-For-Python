@@ -39,8 +39,8 @@ pip install pandas matplotlib
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/<shawtygotsomeskills>/<Advanced-Inventory-Management-System-For-Python>.git
+cd <Advanced-Inventory-Management-System-For-Python>
 python inventory_management.py
 ```
 
@@ -152,8 +152,5 @@ Suggestions and pull requests are welcome. Feel free to fork the repo and improv
 
 ## 📄 License
 
-This project is open source. Add a license of your choice (for example, [MIT](https://choosealicense.com/licenses/mit/)).
+This project is open source.
 
-## 👤 Author
-
-**Jyotirmay**
